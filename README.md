@@ -3,6 +3,7 @@
 
 ![alt text]https://www.imdb.com/title/tt2275969/mediaviewer/rm3148291328
 
+
 Hay una teoría muy difundida sobre los tiburones que defiende que atacan a los surfistas por confusión con una presa. 
 
 -Se sabe que los tiburones buscan comida y son más activos por la noche que por el día, por lo que las peores horas para hacer surf y ser confundido con una león marino (peg) serían por la mañana temprano o por la tarde/noche, es esto cierto?
