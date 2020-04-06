@@ -1,7 +1,7 @@
 # SharkAttacksProyect
 **_A brief analysis about the relationship between sharkattacks and surfers_**
 
-https://github.com/luissanchezgrisolia/SharkAttacksProyect/blob/master/giphy.gif
+![](giphy.gif)
 
 
 
