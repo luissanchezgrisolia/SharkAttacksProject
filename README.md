@@ -15,3 +15,6 @@ We are going to analyze these and other things based on the seas and the sharks 
 
 ### WORK PROCESS
 
+In "Input" folder you will find the link of the initial CSV from which I have worked.
+I have clean it using Python 3 and modules pandas, numpy and matplotlib; always keeping in mind what my objective was to analyze. 
+You can check the final analysis in the 
