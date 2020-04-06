@@ -13,7 +13,7 @@ Also, if it were, would those attacks be more likely to be fatal-ending than tho
 
 We are going to analyze these and other things based on the seas and the sharks that record the most attacks on surfers. 
 
-### WORK PROCESS
+### WORK PROCESS 💻
 
 In "Input" folder you will find the link of the initial CSV from which I have worked.
 I have clean it using Python 3 and modules pandas, numpy and matplotlib; always keeping in mind what my objective was to analyze. 
