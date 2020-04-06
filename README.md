@@ -3,12 +3,15 @@
 
 ![](giphy.gif)
 
+### RESUME 🏄‍♂️🌊🦈
 
+There is a widespread theory about sharks which defends that they attack usually because they are confused. In fact, shark are actually shy creatures. Scientists think they mistake surfers for sea lions or other marine animals that make up their diet.
 
-Hay una teoría muy difundida sobre los tiburones que defiende que atacan a los surfistas por confusión con una presa. 
+Sharks hunt and are more active at night than during the day, so the worst hours for surfing would be early morning or late afternoon, is this true?
 
--Se sabe que los tiburones buscan comida y son más activos por la noche que por el día, por lo que las peores horas para hacer surf y ser confundido con una león marino (peg) serían por la mañana temprano o por la tarde/noche, es esto cierto?
-(Habrá que analizar cuanta gente surfea por la mañana y cuanta a lo largo del día)
--Además, en caso de que lo fuera,  esos ataques tendrían más posibilidades de ser mortales que los que se producen a lo largo del día?
+Also, if it were, would those attacks be more likely to be fatal-ending than those that occur throughout the day?
 
-Lo vamos a analizar en función de los dos mares y dos tiburones que más ataques registran a los surfistas.
+We are going to analyze these and other things based on the seas and the sharks that record the most attacks on surfers. 
+
+### WORK PROCESS
+
