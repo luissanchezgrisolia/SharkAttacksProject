@@ -1,4 +1,4 @@
-# SharkAttacksProyect
+# SharkAttacksProject
 **_A brief analysis about the relationship between sharkattacks and surfers_**
 
 ![](giphy.gif)
